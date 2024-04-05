@@ -1,11 +1,20 @@
-### Greetings! 👋
 
-### About Me: 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200"/>
+</div>
 
+<h1 align="center">
+  Greetings!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+
+### :man_technologist: About Me :
 My name is Pavel, I am a student at the Higher School of Economics, studying in the field of Informatics and Computer Science. I am passionate about mobile app development using the Swift programming language to create innovative and user-friendly iOS apps. My interest in Python 3 inspires me to write effective scripts, applications and solutions to various problems. Additionally, web development is another passion that allows me to turn ideas into visually appealing websites and web applications using HTML, CSS and JavaScript.
 
 
-## Languages and Tools 
+
+
+### :hammer_and_wrench: Languages and Tools :
 <div>
 
 ### Languages:
@@ -15,7 +24,7 @@ My name is Pavel, I am a student at the Higher School of Economics, studying in 
 
   
 
-### OS: ❤️ (MacOS one love)
+### OS: 
 
 | MacOS | Windows |
 |-------|---------|
@@ -48,24 +57,15 @@ My name is Pavel, I am a student at the Higher School of Economics, studying in 
 
 ---
 
-  
 <p align="center">
-  <img width="800" height="220" src="https://streak-stats.demolab.com?user=iordanov05&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
+  <img width="800" height="220" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iordanov05&theme=vision_friendly_dark&align=center" />
 </p>
 
 
 ---
 
 
-
-
 <p align="center">
-  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=iordanov05&show_icons=true&theme=vision-friendly-dark">
-  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iordanov05&size_weight=0.15&count_weight=0.5&layout=compact&theme=vision-friendly-dark">
-</p>
-
-
-
-<p align="center">
- <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+  <img width="600" height="200"  src="https://github-readme-stats.vercel.app/api?username=iordanov05&show_icons=true&theme=vision-friendly-dark">
+  <img width="400" height="200"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=iordanov05&size_weight=0.15&count_weight=0.5&layout=compact&theme=vision-friendly-dark">
 </p>
