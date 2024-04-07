@@ -9,7 +9,7 @@
 </h1>
 
 ### :man_technologist: About Me :
-My name is Pavel, I am a student at the Higher School of Economics, studying in the field of Informatics and Computer Science. I am passionate about mobile app development using the Swift programming language to create innovative and user-friendly iOS apps. My interest in Python 3 inspires me to write effective scripts, applications and solutions to various problems. Additionally, web development is another passion that allows me to turn ideas into visually appealing websites and web applications using HTML, CSS and JavaScript.
+My name is Pavel, I am a student at the Higher School of Economics, studying in the field of Informatics and Computer Science. I am passionate about mobile app development using the Swift programming language to create innovative and user-friendly iOS apps. My interest in Python3 inspires me to write effective scripts, applications and solutions to various problems. Additionally, web development is another passion that allows me to turn ideas into visually appealing websites and web applications using HTML, CSS and JavaScript.
 
 
 
