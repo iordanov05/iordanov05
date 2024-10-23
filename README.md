@@ -9,9 +9,8 @@
 </h1>
 
 ### :man_technologist: About Me :
-My name is Pavel, I am a student at the Higher School of Economics, studying in the field of Informatics and Computer Science. I am passionate about mobile app development using the Swift programming language to create innovative and user-friendly iOS apps. My interest in Python3 inspires me to write effective scripts, applications and solutions to various problems. Additionally, web development is another passion that allows me to turn ideas into visually appealing websites and web applications using HTML, CSS and JavaScript.
-
-
+My name is Pavel, and I’m currently a student at the Higher School of Economics. I have a strong passion for backend development, especially with Python, which motivates me to build efficient and scalable applications.
+Alongside backend development, I also have a keen interest in mobile app development using Swift, allowing me to create innovative and user-friendly iOS applications. Additionally, I enjoy web development, where I can merge my backend expertise with frontend technologies like HTML, CSS, and JavaScript to create cohesive and functional web applications.
 
 
 ### :hammer_and_wrench: Languages and Tools :
