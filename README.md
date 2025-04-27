@@ -9,17 +9,20 @@
 </h1>
 
 ### :man_technologist: About Me :
-My name is Pavel, and I’m currently a student at the Higher School of Economics. I have a strong passion for backend development, especially with Python, which motivates me to build efficient and scalable applications.
-Alongside backend development, I also have a keen interest in mobile app development using Swift, allowing me to create innovative and user-friendly iOS applications. Additionally, I enjoy web development, where I can merge my backend expertise with frontend technologies like HTML, CSS, and JavaScript to create cohesive and functional web applications.
+Hi, I'm Pavel — a passionate Python backend developer.
+I specialize in building efficient, scalable backend systems using Python (FastAPI, Flask) and working with databases like PostgreSQL, MongoDB, and Redis.
+I'm deeply interested in backend architecture, distributed systems, and automation.
+Currently, I'm expanding my expertise in AI integrations (OpenAI API, LangChain, RAG) and cloud technologies (Docker, Kubernetes).
+I'm driven by a desire to write clean, maintainable code and to create backend solutions that power real-world products.
 
-
-### :hammer_and_wrench: Languages and Tools :
 <div>
 
 ### Languages:
-| Python3 | HTML | CSS | JS | Swift |
-|---------|------|-----|----|-------|
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML"  alt="HTML" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS"  alt="CSS" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="Swift" alt="Swift" width="55" height="55"/>|
+| Python3 | Go | C++ | HTML | CSS | JS | Swift |
+|---------|----|------------|-----|----|-------|
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> |  <img 
+src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Go"  alt="Go" width="55" height="55"/> | <img 
+src="https://github.com/devicons/devicon/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++"  alt="C++" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML"  alt="HTML" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS"  alt="CSS" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="Swift" alt="Swift" width="55" height="55"/>|
 
   
 
@@ -30,9 +33,4 @@ Alongside backend development, I also have a keen interest in mobile app develop
 | <img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" title="MacOS" alt="MacOS" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" title="Windows" alt="Windows" width="55" height="55"/>|
 
 
----
-
-
-<p align="center">
-  <img width="400" height="200"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=iordanov05&size_weight=0.15&count_weight=0.5&layout=compact&theme=vision-friendly-dark">
-</p>
+</div>
