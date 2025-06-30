@@ -1,12 +1,7 @@
-
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200"/>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&size=40&duration=3000&color=F7F7F7&center=true&vCenter=true&multiline=true&repeat=false&width=700&height=150&lines=Hi+%F0%9F%91%8B+I'm+Pavel;Python+Developer" alt="Typing SVG" />
 </div>
 
-<h1 align="center">
-  Greetings!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
 
 ### :man_technologist: About Me :
 Hi, I'm Pavel — a passionate Python backend developer.
