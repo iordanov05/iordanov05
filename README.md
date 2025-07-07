@@ -5,7 +5,7 @@
 
 ### :man_technologist: About Me :
 Hi, I'm Pavel — a passionate Python backend developer.
-I specialize in building efficient, scalable backend systems using Python (FastAPI, Flask) and working with databases like PostgreSQL, MongoDB, and Redis.
+I specialize in building efficient, scalable backend systems using Python (FastAPI, Django and Flask) and working with databases like PostgreSQL, MongoDB, and Redis.
 I'm deeply interested in backend architecture, distributed systems, and automation.
 Currently, I'm expanding my expertise in AI integrations (OpenAI API, LangChain, RAG) and cloud technologies (Docker, Kubernetes).
 I'm driven by a desire to write clean, maintainable code and to create backend solutions that power real-world products.
