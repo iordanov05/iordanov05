@@ -9,12 +9,3 @@ I specialize in building efficient, scalable backend systems using Python (FastA
 I'm deeply interested in backend architecture, distributed systems, and automation.
 Currently, I'm expanding my expertise in AI integrations (OpenAI API, LangChain, RAG) and cloud technologies (Docker, Kubernetes).
 I'm driven by a desire to write clean, maintainable code and to create backend solutions that power real-world products.
-
-<div>
-
-### Languages:
-| Python3 | Go | C++ | HTML | CSS | JS | Swift |
-|---------|----|----|-----|----|----|-------|
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Go"  alt="Go" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++"  alt="C++" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML"  alt="HTML" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS"  alt="CSS" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="Swift" alt="Swift" width="55" height="55"/>|
-
-</div>
